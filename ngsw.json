@@ -1,14 +1,14 @@
 {
   "configVersion": 1,
-  "index": "/PWCat/index.html",
+  "index": "https://smestari.github.io/PWCat/index.html/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/PWCat/favicon.ico",
-        "/PWCat/index.html"
+        "https://smestari.github.io/PWCat/index.html/favicon.ico",
+        "https://smestari.github.io/PWCat/index.html/index.html"
       ],
       "patterns": []
     },
@@ -17,10 +17,10 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/PWCat/assets/icon-128x128.png",
-        "/PWCat/assets/icon-152x152.png",
-        "/PWCat/assets/icon-256x256.png",
-        "/PWCat/assets/icon-512x512.png"
+        "https://smestari.github.io/PWCat/index.html/assets/icon-128x128.png",
+        "https://smestari.github.io/PWCat/index.html/assets/icon-152x152.png",
+        "https://smestari.github.io/PWCat/index.html/assets/icon-256x256.png",
+        "https://smestari.github.io/PWCat/index.html/assets/icon-512x512.png"
       ],
       "patterns": [
         "https:\\/\\/cataas\\.com\\/.*"
@@ -29,12 +29,12 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/PWCat/assets/icon-128x128.png": "a34facc571c717783dff029a153cd854c8d46c30",
-    "/PWCat/assets/icon-152x152.png": "ef0582c66761dd2725a22c8cc3b7990973055a20",
-    "/PWCat/assets/icon-256x256.png": "c3e8e32bd9f17ad29481708a2d8d0699fd5a9e94",
-    "/PWCat/assets/icon-512x512.png": "52f6bfca90c942f2f02ba54942fe6453b630cab9",
-    "/PWCat/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/PWCat/index.html": "86bfb52145fd7ba4c57f8c9445530b2e0773e575"
+    "https://smestari.github.io/PWCat/index.html/assets/icon-128x128.png": "a34facc571c717783dff029a153cd854c8d46c30",
+    "https://smestari.github.io/PWCat/index.html/assets/icon-152x152.png": "ef0582c66761dd2725a22c8cc3b7990973055a20",
+    "https://smestari.github.io/PWCat/index.html/assets/icon-256x256.png": "c3e8e32bd9f17ad29481708a2d8d0699fd5a9e94",
+    "https://smestari.github.io/PWCat/index.html/assets/icon-512x512.png": "52f6bfca90c942f2f02ba54942fe6453b630cab9",
+    "https://smestari.github.io/PWCat/index.html/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://smestari.github.io/PWCat/index.html/index.html": "c27d9edb628cb334348ca806830188eb0ebd01fc"
   },
   "navigationUrls": [
     {
