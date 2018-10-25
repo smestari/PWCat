@@ -1,0 +1,57 @@
+{
+  "configVersion": 1,
+  "index": "https://smestari.github.io/PWCat/index.html/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://smestari.github.io/PWCat/index.html/favicon.ico",
+        "https://smestari.github.io/PWCat/index.html/index.html"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://smestari.github.io/PWCat/index.html/assets/icon-128x128.png",
+        "https://smestari.github.io/PWCat/index.html/assets/icon-152x152.png",
+        "https://smestari.github.io/PWCat/index.html/assets/icon-256x256.png",
+        "https://smestari.github.io/PWCat/index.html/assets/icon-512x512.png"
+      ],
+      "patterns": [
+        "https:\\/\\/cataas\\.com\\/.*"
+      ]
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://smestari.github.io/PWCat/index.html/assets/icon-128x128.png": "a34facc571c717783dff029a153cd854c8d46c30",
+    "https://smestari.github.io/PWCat/index.html/assets/icon-152x152.png": "ef0582c66761dd2725a22c8cc3b7990973055a20",
+    "https://smestari.github.io/PWCat/index.html/assets/icon-256x256.png": "c3e8e32bd9f17ad29481708a2d8d0699fd5a9e94",
+    "https://smestari.github.io/PWCat/index.html/assets/icon-512x512.png": "52f6bfca90c942f2f02ba54942fe6453b630cab9",
+    "https://smestari.github.io/PWCat/index.html/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://smestari.github.io/PWCat/index.html/index.html": "e567e75b17c797b67179b0678449840cbe0360d9"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
